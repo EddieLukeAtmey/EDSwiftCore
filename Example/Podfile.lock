@@ -1,0 +1,16 @@
+PODS:
+  - EDSwiftCore (0.1.0)
+
+DEPENDENCIES:
+  - EDSwiftCore (from `../`)
+
+EXTERNAL SOURCES:
+  EDSwiftCore:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EDSwiftCore: 7a277c0776c5ee94a4986e6ce24fb5bbd0f4a063
+
+PODFILE CHECKSUM: d3ee8387c3e468ff8da39711ace36278642e76ce
+
+COCOAPODS: 1.4.0

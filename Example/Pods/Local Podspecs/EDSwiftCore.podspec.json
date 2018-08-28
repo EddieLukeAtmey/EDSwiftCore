@@ -1,0 +1,22 @@
+{
+  "name": "EDSwiftCore",
+  "version": "0.1.0",
+  "summary": "A short description of EDSwiftCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EddieLukeAtmey/EDSwiftCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EddieLukeAtmey": "eddie.marvin116@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/EddieLukeAtmey/EDSwiftCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EDSwiftCore/Classes/**/*"
+}
