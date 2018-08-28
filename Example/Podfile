@@ -1,0 +1,6 @@
+use_frameworks!
+target 'EDSwiftCore_Tests' do
+  pod 'EDSwiftCore', :path => '../'
+  
+  
+end
