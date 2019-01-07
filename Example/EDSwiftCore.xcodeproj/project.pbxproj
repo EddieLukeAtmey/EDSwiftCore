@@ -133,9 +133,8 @@
 				TargetAttributes = {
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = JAL984MN62;
+						DevelopmentTeam = 9WQ9GA3FD9;
 						LastSwiftMigration = 0900;
-						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
 				};
 			};
@@ -336,7 +335,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3AC6C6091C9869A215365E1B /* Pods-EDSwiftCore_Tests.debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = JAL984MN62;
+				DEVELOPMENT_TEAM = 9WQ9GA3FD9;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -351,7 +350,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EDSwiftCore_Example.app/EDSwiftCore_Example";
 			};
 			name = Debug;
 		};
@@ -359,7 +357,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CBFE75260FC2BF795531BAD7 /* Pods-EDSwiftCore_Tests.release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = JAL984MN62;
+				DEVELOPMENT_TEAM = 9WQ9GA3FD9;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -370,7 +368,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EDSwiftCore_Example.app/EDSwiftCore_Example";
 			};
 			name = Release;
 		};

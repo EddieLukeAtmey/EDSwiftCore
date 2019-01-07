@@ -73,5 +73,3 @@ public extension BinaryInteger {
         return dcm == .notANumber ? .zero : dcm
     }
 }
-
-

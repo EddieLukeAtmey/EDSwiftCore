@@ -52,7 +52,7 @@ public extension UIViewController {
                              msg: String?,
                              okTitle: String = "OK",
                              cancelTitle: String = "Cancel",
-                             action: @escaping ((_: Bool) -> Void)? ) -> UIAlertController {
+                             action: ((_: Bool) -> Void)? ) -> UIAlertController {
 
         let alert = UIAlertController(title: title, message: msg, preferredStyle: .alert)
 
